@@ -3,7 +3,7 @@
 Build a website that can crawl a website’s entire code and assess it according to SEO factors.
 
 Version 1.0 
-Impremented functions in Javascript
+Impremented functions in Javascript.
 It can check these factors;
   - H tag
   - OG tag
